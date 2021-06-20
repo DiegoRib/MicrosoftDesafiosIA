@@ -3,7 +3,7 @@ Desafios do Curso de Inteligência Artificial da Microsoft
 
 *Para saber sobre os passos realizado em cada desafio acesse:* </br>
 *[Desafio 1](https://github.com/DiegoRib/MicrosoftDesafiosIA/blob/main/Desafio1.md)*</br>
-*[Desafio 2]()*</br>
+*[Desafio 2](https://github.com/DiegoRib/MicrosoftDesafiosIA/blob/main/Desafio2.md)*</br>
 *[Desafio 3]()*</br>
 *[Desafio 4]()*</br>
 
