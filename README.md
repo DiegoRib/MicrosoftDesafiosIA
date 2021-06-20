@@ -1,5 +1,5 @@
 # MicrosoftDesafiosIA
-Desafios do Curso de Inteligência Artificial da Microsoft
+Desafios do Curso de Inteligência Artificial da Microsoft </br>
 
 *Para saber sobre os passos realizado em cada desafio acesse:* </br>
 *[Desafio 1](https://github.com/DiegoRib/MicrosoftDesafiosIA/blob/main/Desafio1.md)*</br>
@@ -7,15 +7,13 @@ Desafios do Curso de Inteligência Artificial da Microsoft
 *[Desafio 3]()*</br>
 *[Desafio 4]()*</br>
 
-### Desafio 1 - Existe alguma correlação entre as notas das provas objetivas? Comente.
-
-Input: 
+### Desafio 1 - Existe alguma correlação entre as notas das provas objetivas? Comente. </br>
+*Input:*
 
     NU_NOTA_CH = 0
     NU_NOTA_LC = 0
     NU_NOTA_MT = 785
-       
-Output:
+*Output:*
 
     Predicted Nota: 254.40
 
@@ -46,3 +44,13 @@ Output:
     convert_column_by_element_type\n    base_error=e)\n  File "/azureml-envs/azureml_2439cbd4ba441d4c922a33cfeff2215c/lib/python3.6/site-
     packages/azureml/studio/common/datatable/data_type_conversion.py", line 320, in _raise_convert_type_error\n    raise convert_type_error from base_error\nTypeError: Cannot 
     convert to type "int64": Cannot convert column of all missing values to int64 type.\n', 'details': ''}}
+    
+### Desafio 2 - Escolha um estado da federação e clusterize os estudantes do enade com base em suas respostas ao questionário socioeconômico. </br>
+*Input:*
+
+    NU_NOTA_REDACAO = 855
+    Q006 = C
+    Q025 = A
+*Output:*
+
+    Cluster: 2
