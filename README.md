@@ -1,6 +1,12 @@
 # MicrosoftDesafiosIA
 Desafios do Curso de Inteligência Artificial da Microsoft
 
+*Para saber sobre os passos realizado em cada acesse os arquivos de cada desafio:* </br>
+*[Desafio 1](https://github.com/DiegoRib/MicrosoftDesafiosIA/blob/main/Desafio1.md)*</br>
+*[Desafio 2]()*</br>
+*[Desafio 3]()*</br>
+*[Desafio 4]()*</br>
+
 ### Desafio 1 - Existe alguma correlação entre as notas das provas objetivas? Comente.
 
 Input: 
